@@ -21,7 +21,7 @@ class ContactItem(QtWidgets.QWidget):
 class MainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
-        stileFile = open(path.join("ui", "ChatMain.css"), 'r')
+        stileFile = open(path.join("ui", "ChatMain.dark.css"), 'r')
         self.styleData = stileFile.read()
         stileFile.close()
         self.ui = uic.loadUi(path.join("ui", "ChatMain.ui"), self)

@@ -1,0 +1,28 @@
+QLabel#UserAvatar 
+{
+	border-radius: 20px;
+	background-clip: border; 
+	background-color: rgb(0,255,0); 
+	color: rgb(255, 255, 255); 
+	font: 14pt; 
+}
+
+QLabel#ContactAvatar 
+{
+	border-radius: 20px;
+	background-clip: border; 
+	color: rgb(255, 255, 255); 
+	font: 14pt;
+} 
+
+* 
+{
+    color: #bbbbbb;
+    background: #3c3f41;
+    font-size: 13px;
+    border-color: #2b2b2b;
+    selection-background-color: #2f65ca;
+    selection-color: #bbbbbb;
+    alternate-background-color: #3c3f41;
+}
+
