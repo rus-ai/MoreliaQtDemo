@@ -33,7 +33,7 @@
     <number>0</number>
    </property>
    <item>
-    <widget class="QLabel" name="avatarLabel">
+    <widget class="QLabel" name="ContactAvatar">
      <property name="minimumSize">
       <size>
        <width>40</width>
@@ -45,13 +45,6 @@
        <width>40</width>
        <height>40</height>
       </size>
-     </property>
-     <property name="styleSheet">
-      <string notr="true">border-radius: 20px;
-background-clip: border; 
-color: rgb(255, 255, 255); 
-font: 14pt Vazir; 
-</string>
      </property>
      <property name="text">
       <string>AB</string>
