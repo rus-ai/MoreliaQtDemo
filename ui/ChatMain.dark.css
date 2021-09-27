@@ -25,6 +25,14 @@ QLabel#ContactAvatar
     selection-color: #bbbbbb;
     alternate-background-color: #3c3f41;
 }
+
+QToolButton {
+    border: none;
+}
+
+QToolButton:hover {
+    background: #515151;
+}
  
 QScrollBar {
     border: none;

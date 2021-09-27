@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>MoreliaTalk</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>icons/appicon.png</normaloff>icons/appicon.png</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout" stretch="0,0,10000000">
     <item>
