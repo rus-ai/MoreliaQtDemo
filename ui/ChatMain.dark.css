@@ -15,12 +15,17 @@ QLabel#ContactAvatar
 	font: 14pt;
 } 
 
+QLabel#usernameLabel 
+{
+	font: 12pt;
+} 
+
 * 
 {
     color: #bbbbbb;
     background: #3c3f41;
-    font-size: 13px;
     border-color: #2b2b2b;
+    font-size: 10pt;
     selection-background-color: #2f65ca;
     selection-color: #bbbbbb;
     alternate-background-color: #3c3f41;
